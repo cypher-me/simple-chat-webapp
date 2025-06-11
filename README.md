@@ -50,8 +50,8 @@ Make sure you have the following installed on your system:
 #### 1. Clone the Repository
 
 ```bash
-git clone <repository-url>
-cd ChatApplication
+git clone https://github.com/cypher-me/simple-chat-webapp.git
+cd simple-chat-webapp
 ```
 
 #### 2. Start the Server (Backend)
