@@ -1,4 +1,4 @@
-# ChatApplication
+# Simple Chat WebApp
 
 A real-time chat application built with Spring Boot WebSocket backend and ReactJS frontend, enabling instant messaging between multiple users.
 
@@ -28,7 +28,7 @@ A real-time chat application built with Spring Boot WebSocket backend and ReactJ
 ## 🏗️ Project Structure
 
 ```
-ChatApplication/
+simple-chat-webapp/
 ├── spring-ws-server/     # Spring Boot WebSocket server
 ├── react-client/         # ReactJS frontend application
 └── img/                  # Screenshots and images
